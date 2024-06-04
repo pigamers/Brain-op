@@ -5,9 +5,9 @@ We have two folder named as front for frontend(client side) & back for backend(s
 
 ## How to run this project
 
-### `npm start`
+### `npm run start`
 
-But before this you need to run this command.
+## But before this you need to run this command.
 
 ### `npm i`
 
